@@ -7,9 +7,6 @@
 
 
 
-<img width="1054" height="649" alt="Знімок екрана 2026-08-13 о 21 50 29" src="https://github.com/user-attachments/assets/21c17681-999e-462b-a022-309e009639ef" />
-
-
 
 ## ⚠️ Спершу перевір частоту ключа 📻
 
@@ -36,6 +33,7 @@ PN532 працює тільки на 13.56 МГц. Багато домофонн
 
 
 
+<img width="1054" height="649" alt="Знімок екрана 2026-08-13 о 21 50 29" src="https://github.com/user-attachments/assets/21c17681-999e-462b-a022-309e009639ef" />
 
 
 ## Протокол PN532 через I2C 📟
