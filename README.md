@@ -3,6 +3,10 @@
 Програма зчитує ідентифікатор (UID) безконтактної картки чи брелка стандарту 13.56 МГц (MIFARE Classic, MIFARE Ultralight, NTAG) через
 модуль PN532 і показує його на екрані Лілки. Обмін — по I2C.
 
+<img width="640" height="427" alt="IMG_3345 — середнє" src="https://github.com/user-attachments/assets/6c0a55e1-691e-4e9b-86b8-3beb59bd4734" />
+
+
+
 <img width="1054" height="649" alt="Знімок екрана 2026-08-13 о 21 50 29" src="https://github.com/user-attachments/assets/21c17681-999e-462b-a022-309e009639ef" />
 
 
